@@ -1,0 +1,5 @@
+install.packages('shiny', repos='https://cloud.r-project.org/')
+install.packages('class', repos='https://cloud.r-project.org/')
+install.packages('shinyWidgets', repos='https://cloud.r-project.org/')
+install.packages('shinyjs', repos='https://cloud.r-project.org/')
+install.packages('RTriangle', repos='https://cloud.r-project.org/')

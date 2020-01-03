@@ -1,0 +1,12 @@
+name: kNN_DecisionBoundaries
+title: kNN_DecisionBoundaries
+username:
+account: ml-fii
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 586551
+bundleId: 2592046
+url: https://ml-fii.shinyapps.io/kNN_DecisionBoundaries/
+when: 1573832286.13643
+asMultiple: FALSE
+asStatic: FALSE
